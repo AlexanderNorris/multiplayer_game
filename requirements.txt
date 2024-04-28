@@ -1,0 +1,4 @@
+pygame
+bson
+rich
+py2exe
